@@ -1,4 +1,4 @@
-name = input('What is your name: ')
+name = str(input('What is your name: '))
 print('Nice to meet you {:20}!'.format(name))
 print('Nice to meet you {:>20}!'.format(name))
 print('Nice to meet you {:<20}!'.format(name))
