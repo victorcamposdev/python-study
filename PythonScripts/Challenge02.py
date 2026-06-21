@@ -1,0 +1,6 @@
+print('----------Challenge02------------')
+print('Please tell me when is your birthday')
+month = input('month: ')
+day = input('day: ')
+year = input('year: ')
+print('You were born on ' + month + ' ' + day + ', ' + year + '. Right? ')
